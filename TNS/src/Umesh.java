@@ -61,7 +61,7 @@ public class Umesh {
 		
 		// String (Non-primitive type)
 		String str = "Hello, Kiran!";
-		System.out.println(str); // Hello, Umesh!
+		System.out.println(str); // Hello, Kiran!
 		// Memory size of String: Depends on the length of the string and JVM,
 		// but each character takes 2 bytes (UTF-16)
 
